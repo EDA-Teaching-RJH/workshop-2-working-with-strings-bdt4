@@ -1,0 +1,18 @@
+x = int(input("What is your score?"))
+if x = 90-100:
+    print("You got an A")
+
+if x = 90-100:
+    print("You got an B")
+
+if x = 90-100:
+    print("You got an C")
+
+if x = 90-100:
+    print("You got an D")
+
+if x = 90-100:
+    print("You got an F")
+
+
+
